@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioNomeData\exercicioNomeData\obj\Debug\exercicioNomeData.csprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioNomeData\exercicioNomeData\obj\Debug\exercicioNomeData.MainForm.resources
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioNomeData\exercicioNomeData\obj\Debug\exercicioNomeData.csproj.GenerateResource.Cache
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioNomeData\exercicioNomeData\bin\Debug\exercicioNomeData.exe
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioNomeData\exercicioNomeData\bin\Debug\exercicioNomeData.pdb
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioNomeData\exercicioNomeData\obj\Debug\exercicioNomeData.exe
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioNomeData\exercicioNomeData\obj\Debug\exercicioNomeData.pdb
