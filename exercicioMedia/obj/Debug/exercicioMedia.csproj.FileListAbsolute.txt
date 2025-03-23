@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioMedia\bin\Debug\exercicioMedia.exe
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioMedia\bin\Debug\exercicioMedia.pdb
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioMedia\obj\Debug\exercicioMedia.csprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioMedia\obj\Debug\exercicioMedia.MainForm.resources
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioMedia\obj\Debug\exercicioMedia.csproj.GenerateResource.Cache
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioMedia\obj\Debug\exercicioMedia.exe
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioMedia\obj\Debug\exercicioMedia.pdb
