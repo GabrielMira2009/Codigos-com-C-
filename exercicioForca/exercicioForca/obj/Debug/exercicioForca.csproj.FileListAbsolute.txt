@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioForca\exercicioForca\bin\Debug\exercicioForca.exe
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioForca\exercicioForca\bin\Debug\exercicioForca.pdb
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioForca\exercicioForca\obj\Debug\exercicioForca.csprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioForca\exercicioForca\obj\Debug\exercicioForca.MainForm.resources
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioForca\exercicioForca\obj\Debug\exercicioForca.csproj.GenerateResource.Cache
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioForca\exercicioForca\obj\Debug\exercicioForca.exe
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioForca\exercicioForca\obj\Debug\exercicioForca.pdb
