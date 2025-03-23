@@ -1,0 +1,7 @@
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioJuros\exercicioJuros\obj\Debug\exercicioJuros.csprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioJuros\exercicioJuros\obj\Debug\exercicioJuros.MainForm.resources
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioJuros\exercicioJuros\obj\Debug\exercicioJuros.csproj.GenerateResource.Cache
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioJuros\exercicioJuros\bin\Debug\exercicioJuros.exe
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioJuros\exercicioJuros\bin\Debug\exercicioJuros.pdb
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioJuros\exercicioJuros\obj\Debug\exercicioJuros.exe
+C:\Users\gabri\OneDrive\Documentos\SharpDevelop Projects\exerciciosTPA_GM\exercicioJuros\exercicioJuros\obj\Debug\exercicioJuros.pdb
