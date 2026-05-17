@@ -1,0 +1,10 @@
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\Aluno\Documents\IISExpress\TPA-JV-1b\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+D:\exerciciosTPA_GM\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+D:\exerciciosTPA_GM\JogoDaVelha\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+D:\exerciciosTPA_GM\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+D:\exerciciosTPA_GM\JogoDaVelha\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
+D:\exerciciosTPA_GM\JogoDaVelha\JogoDaVelha\obj\Debug\ResolveAssemblyReference.cache
