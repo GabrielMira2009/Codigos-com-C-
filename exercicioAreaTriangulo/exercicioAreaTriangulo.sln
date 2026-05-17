@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exercicioAreaTriangulo", "exercicioAreaTriangulo\exercicioAreaTriangulo.csproj", "{80728763-E65A-479A-A6DC-3DDB7F5E0776}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80728763-E65A-479A-A6DC-3DDB7F5E0776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80728763-E65A-479A-A6DC-3DDB7F5E0776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80728763-E65A-479A-A6DC-3DDB7F5E0776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80728763-E65A-479A-A6DC-3DDB7F5E0776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
