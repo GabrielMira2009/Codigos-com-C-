@@ -1,0 +1,22 @@
+C:\Users\Aluno\Documents\SharpDevelop Projects\reajustesal\reajustesal\obj\Debug\reajustesal.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\reajustesal\reajustesal\obj\Debug\reajustesal.MainForm.resources
+C:\Users\Aluno\Documents\SharpDevelop Projects\reajustesal\reajustesal\obj\Debug\reajustesal.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\reajustesal\reajustesal\bin\Debug\reajustesal.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\reajustesal\reajustesal\bin\Debug\reajustesal.pdb
+C:\Users\Aluno\Documents\SharpDevelop Projects\reajustesal\reajustesal\obj\Debug\reajustesal.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\reajustesal\reajustesal\obj\Debug\reajustesal.pdb
+E:\exerciciosTPA_GM\reajustesal\reajustesal\bin\Debug\reajustesal.exe
+E:\exerciciosTPA_GM\reajustesal\reajustesal\bin\Debug\reajustesal.pdb
+E:\exerciciosTPA_GM\reajustesal\reajustesal\obj\Debug\reajustesal.csprojResolveAssemblyReference.cache
+E:\exerciciosTPA_GM\reajustesal\reajustesal\obj\Debug\reajustesal.MainForm.resources
+E:\exerciciosTPA_GM\reajustesal\reajustesal\obj\Debug\reajustesal.csproj.GenerateResource.Cache
+E:\exerciciosTPA_GM\reajustesal\reajustesal\obj\Debug\reajustesal.exe
+E:\exerciciosTPA_GM\reajustesal\reajustesal\obj\Debug\reajustesal.pdb
+D:\exerciciosTPA_GM\reajustesal\reajustesal\bin\Debug\reajustesal.exe
+D:\exerciciosTPA_GM\reajustesal\reajustesal\bin\Debug\reajustesal.pdb
+D:\exerciciosTPA_GM\reajustesal\reajustesal\obj\Debug\ResolveAssemblyReference.cache
+D:\exerciciosTPA_GM\reajustesal\reajustesal\obj\Debug\reajustesal.MainForm.resources
+D:\exerciciosTPA_GM\reajustesal\reajustesal\obj\Debug\GenerateResource.read.1.tlog
+D:\exerciciosTPA_GM\reajustesal\reajustesal\obj\Debug\GenerateResource.write.1.tlog
+D:\exerciciosTPA_GM\reajustesal\reajustesal\obj\Debug\reajustesal.exe
+D:\exerciciosTPA_GM\reajustesal\reajustesal\obj\Debug\reajustesal.pdb

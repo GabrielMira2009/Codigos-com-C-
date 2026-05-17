@@ -1,0 +1,14 @@
+C:\Users\20252930041\Documents\SharpDevelop Projects\exercicioConsultoria\exercicioConsultoria\bin\Debug\exercicioConsultoria.exe
+C:\Users\20252930041\Documents\SharpDevelop Projects\exercicioConsultoria\exercicioConsultoria\bin\Debug\exercicioConsultoria.pdb
+C:\Users\20252930041\Documents\SharpDevelop Projects\exercicioConsultoria\exercicioConsultoria\obj\Debug\exercicioConsultoria.csprojResolveAssemblyReference.cache
+C:\Users\20252930041\Documents\SharpDevelop Projects\exercicioConsultoria\exercicioConsultoria\obj\Debug\exercicioConsultoria.MainForm.resources
+C:\Users\20252930041\Documents\SharpDevelop Projects\exercicioConsultoria\exercicioConsultoria\obj\Debug\exercicioConsultoria.csproj.GenerateResource.Cache
+C:\Users\20252930041\Documents\SharpDevelop Projects\exercicioConsultoria\exercicioConsultoria\obj\Debug\exercicioConsultoria.exe
+C:\Users\20252930041\Documents\SharpDevelop Projects\exercicioConsultoria\exercicioConsultoria\obj\Debug\exercicioConsultoria.pdb
+C:\Users\gabri\OneDrive\Documentos\projetos da Etec\exerciciosTPA_GM\exercicioConsultoria\exercicioConsultoria\obj\Debug\exercicioConsultoria.csprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\projetos da Etec\exerciciosTPA_GM\exercicioConsultoria\exercicioConsultoria\obj\Debug\exercicioConsultoria.MainForm.resources
+C:\Users\gabri\OneDrive\Documentos\projetos da Etec\exerciciosTPA_GM\exercicioConsultoria\exercicioConsultoria\obj\Debug\exercicioConsultoria.csproj.GenerateResource.Cache
+C:\Users\gabri\OneDrive\Documentos\projetos da Etec\exerciciosTPA_GM\exercicioConsultoria\exercicioConsultoria\obj\Debug\exercicioConsultoria.exe
+C:\Users\gabri\OneDrive\Documentos\projetos da Etec\exerciciosTPA_GM\exercicioConsultoria\exercicioConsultoria\obj\Debug\exercicioConsultoria.pdb
+C:\Users\gabri\OneDrive\Documentos\projetos da Etec\exerciciosTPA_GM\exercicioConsultoria\exercicioConsultoria\bin\Debug\exercicioConsultoria.exe
+C:\Users\gabri\OneDrive\Documentos\projetos da Etec\exerciciosTPA_GM\exercicioConsultoria\exercicioConsultoria\bin\Debug\exercicioConsultoria.pdb

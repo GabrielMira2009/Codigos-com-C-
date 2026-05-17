@@ -1,0 +1,8 @@
+D:\exerciciosTPA_GM\exercicioTemperatura\exercicioTemperatura\obj\Debug\exercicioTemperatura.MainForm.resources
+D:\exerciciosTPA_GM\exercicioTemperatura\exercicioTemperatura\bin\Debug\exercicioTemperatura.exe
+D:\exerciciosTPA_GM\exercicioTemperatura\exercicioTemperatura\bin\Debug\exercicioTemperatura.pdb
+D:\exerciciosTPA_GM\exercicioTemperatura\exercicioTemperatura\obj\Debug\exercicioTemperatura.exe
+D:\exerciciosTPA_GM\exercicioTemperatura\exercicioTemperatura\obj\Debug\exercicioTemperatura.pdb
+D:\exerciciosTPA_GM\exercicioTemperatura\exercicioTemperatura\obj\Debug\ResolveAssemblyReference.cache
+D:\exerciciosTPA_GM\exercicioTemperatura\exercicioTemperatura\obj\Debug\GenerateResource.read.1.tlog
+D:\exerciciosTPA_GM\exercicioTemperatura\exercicioTemperatura\obj\Debug\GenerateResource.write.1.tlog

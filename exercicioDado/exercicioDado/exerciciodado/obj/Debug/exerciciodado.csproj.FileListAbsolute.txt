@@ -1,0 +1,7 @@
+F:\exerciciosTPA_GM\exercicioDado\exerciciodado\exerciciodado\obj\Debug\exerciciodado.csprojResolveAssemblyReference.cache
+F:\exerciciosTPA_GM\exercicioDado\exerciciodado\exerciciodado\obj\Debug\exerciciodado.MainForm.resources
+F:\exerciciosTPA_GM\exercicioDado\exerciciodado\exerciciodado\obj\Debug\exerciciodado.csproj.GenerateResource.Cache
+F:\exerciciosTPA_GM\exercicioDado\exerciciodado\exerciciodado\bin\Debug\exerciciodado.exe
+F:\exerciciosTPA_GM\exercicioDado\exerciciodado\exerciciodado\bin\Debug\exerciciodado.pdb
+F:\exerciciosTPA_GM\exercicioDado\exerciciodado\exerciciodado\obj\Debug\exerciciodado.exe
+F:\exerciciosTPA_GM\exercicioDado\exerciciodado\exerciciodado\obj\Debug\exerciciodado.pdb

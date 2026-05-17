@@ -1,0 +1,7 @@
+D:\exerciciosTPA_GM\exercicioArquivos\exercicioArquivos\obj\Debug\exercicioArquivos.csprojResolveAssemblyReference.cache
+D:\exerciciosTPA_GM\exercicioArquivos\exercicioArquivos\obj\Debug\exercicioArquivos.MainForm.resources
+D:\exerciciosTPA_GM\exercicioArquivos\exercicioArquivos\obj\Debug\exercicioArquivos.csproj.GenerateResource.Cache
+D:\exerciciosTPA_GM\exercicioArquivos\exercicioArquivos\bin\Debug\exercicioArquivos.exe
+D:\exerciciosTPA_GM\exercicioArquivos\exercicioArquivos\bin\Debug\exercicioArquivos.pdb
+D:\exerciciosTPA_GM\exercicioArquivos\exercicioArquivos\obj\Debug\exercicioArquivos.exe
+D:\exerciciosTPA_GM\exercicioArquivos\exercicioArquivos\obj\Debug\exercicioArquivos.pdb

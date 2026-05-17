@@ -1,0 +1,14 @@
+D:\exercicioSomaV\exercicioSomaV\bin\Debug\exercicioSomaV.exe
+D:\exercicioSomaV\exercicioSomaV\bin\Debug\exercicioSomaV.pdb
+D:\exercicioSomaV\exercicioSomaV\obj\Debug\exercicioSomaV.csprojResolveAssemblyReference.cache
+D:\exercicioSomaV\exercicioSomaV\obj\Debug\exercicioSomaV.MainForm.resources
+D:\exercicioSomaV\exercicioSomaV\obj\Debug\exercicioSomaV.csproj.GenerateResource.Cache
+D:\exercicioSomaV\exercicioSomaV\obj\Debug\exercicioSomaV.exe
+D:\exercicioSomaV\exercicioSomaV\obj\Debug\exercicioSomaV.pdb
+D:\exerciciosTPA_GM\exercicioSomaV\exercicioSomaV\bin\Debug\exercicioSomaV.exe
+D:\exerciciosTPA_GM\exercicioSomaV\exercicioSomaV\bin\Debug\exercicioSomaV.pdb
+D:\exerciciosTPA_GM\exercicioSomaV\exercicioSomaV\obj\Debug\exercicioSomaV.csprojResolveAssemblyReference.cache
+D:\exerciciosTPA_GM\exercicioSomaV\exercicioSomaV\obj\Debug\exercicioSomaV.MainForm.resources
+D:\exerciciosTPA_GM\exercicioSomaV\exercicioSomaV\obj\Debug\exercicioSomaV.csproj.GenerateResource.Cache
+D:\exerciciosTPA_GM\exercicioSomaV\exercicioSomaV\obj\Debug\exercicioSomaV.exe
+D:\exerciciosTPA_GM\exercicioSomaV\exercicioSomaV\obj\Debug\exercicioSomaV.pdb

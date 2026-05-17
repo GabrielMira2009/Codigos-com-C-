@@ -1,0 +1,7 @@
+D:\exerciciosTPA_GM\exercicioTabuada\exercicioTabuada\obj\Debug\exercicioTabuada.csprojResolveAssemblyReference.cache
+D:\exerciciosTPA_GM\exercicioTabuada\exercicioTabuada\obj\Debug\exercicioTabuada.MainForm.resources
+D:\exerciciosTPA_GM\exercicioTabuada\exercicioTabuada\obj\Debug\exercicioTabuada.csproj.GenerateResource.Cache
+D:\exerciciosTPA_GM\exercicioTabuada\exercicioTabuada\bin\Debug\exercicioTabuada.exe
+D:\exerciciosTPA_GM\exercicioTabuada\exercicioTabuada\bin\Debug\exercicioTabuada.pdb
+D:\exerciciosTPA_GM\exercicioTabuada\exercicioTabuada\obj\Debug\exercicioTabuada.exe
+D:\exerciciosTPA_GM\exercicioTabuada\exercicioTabuada\obj\Debug\exercicioTabuada.pdb

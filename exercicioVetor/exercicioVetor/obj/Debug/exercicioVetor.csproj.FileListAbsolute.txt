@@ -1,0 +1,15 @@
+D:\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.csprojResolveAssemblyReference.cache
+D:\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.MainForm.resources
+D:\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.csproj.GenerateResource.Cache
+D:\exercicioVetor\exercicioVetor\bin\Debug\exercicioVetor.exe
+D:\exercicioVetor\exercicioVetor\bin\Debug\exercicioVetor.pdb
+D:\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.exe
+D:\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.pdb
+D:\exerciciosTPA_GM\exercicioVetor\exercicioVetor\bin\Debug\exercicioVetor.exe
+D:\exerciciosTPA_GM\exercicioVetor\exercicioVetor\bin\Debug\exercicioVetor.pdb
+D:\exerciciosTPA_GM\exercicioVetor\exercicioVetor\obj\Debug\ResolveAssemblyReference.cache
+D:\exerciciosTPA_GM\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.MainForm.resources
+D:\exerciciosTPA_GM\exercicioVetor\exercicioVetor\obj\Debug\GenerateResource.read.1.tlog
+D:\exerciciosTPA_GM\exercicioVetor\exercicioVetor\obj\Debug\GenerateResource.write.1.tlog
+D:\exerciciosTPA_GM\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.exe
+D:\exerciciosTPA_GM\exercicioVetor\exercicioVetor\obj\Debug\exercicioVetor.pdb

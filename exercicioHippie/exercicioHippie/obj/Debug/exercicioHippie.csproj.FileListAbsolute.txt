@@ -1,0 +1,14 @@
+F:\exerciciosTPA_GM\exercicioHippie\exercicioHippie\bin\Debug\exercicioHippie.exe
+F:\exerciciosTPA_GM\exercicioHippie\exercicioHippie\bin\Debug\exercicioHippie.pdb
+F:\exerciciosTPA_GM\exercicioHippie\exercicioHippie\obj\Debug\exercicioHippie.csprojResolveAssemblyReference.cache
+F:\exerciciosTPA_GM\exercicioHippie\exercicioHippie\obj\Debug\exercicioHippie.MainForm.resources
+F:\exerciciosTPA_GM\exercicioHippie\exercicioHippie\obj\Debug\exercicioHippie.csproj.GenerateResource.Cache
+F:\exerciciosTPA_GM\exercicioHippie\exercicioHippie\obj\Debug\exercicioHippie.exe
+F:\exerciciosTPA_GM\exercicioHippie\exercicioHippie\obj\Debug\exercicioHippie.pdb
+D:\exerciciosTPA_GM\exercicioHippie\exercicioHippie\bin\Debug\exercicioHippie.exe
+D:\exerciciosTPA_GM\exercicioHippie\exercicioHippie\bin\Debug\exercicioHippie.pdb
+D:\exerciciosTPA_GM\exercicioHippie\exercicioHippie\obj\Debug\exercicioHippie.csprojResolveAssemblyReference.cache
+D:\exerciciosTPA_GM\exercicioHippie\exercicioHippie\obj\Debug\exercicioHippie.MainForm.resources
+D:\exerciciosTPA_GM\exercicioHippie\exercicioHippie\obj\Debug\exercicioHippie.csproj.GenerateResource.Cache
+D:\exerciciosTPA_GM\exercicioHippie\exercicioHippie\obj\Debug\exercicioHippie.exe
+D:\exerciciosTPA_GM\exercicioHippie\exercicioHippie\obj\Debug\exercicioHippie.pdb

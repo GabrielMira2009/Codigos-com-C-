@@ -1,0 +1,8 @@
+D:\exerciciosTPA_GM\exercicioQuiz\exercicioQuiz\bin\Debug\exercicioQuiz.exe
+D:\exerciciosTPA_GM\exercicioQuiz\exercicioQuiz\bin\Debug\exercicioQuiz.pdb
+D:\exerciciosTPA_GM\exercicioQuiz\exercicioQuiz\obj\Debug\exercicioQuiz.MainForm.resources
+D:\exerciciosTPA_GM\exercicioQuiz\exercicioQuiz\obj\Debug\exercicioQuiz.exe
+D:\exerciciosTPA_GM\exercicioQuiz\exercicioQuiz\obj\Debug\exercicioQuiz.pdb
+D:\exerciciosTPA_GM\exercicioQuiz\exercicioQuiz\obj\Debug\ResolveAssemblyReference.cache
+D:\exerciciosTPA_GM\exercicioQuiz\exercicioQuiz\obj\Debug\GenerateResource.read.1.tlog
+D:\exerciciosTPA_GM\exercicioQuiz\exercicioQuiz\obj\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,15 @@
+F:\exerciciosTPA_GM\exercicioPiscina\exercicioPiscina\bin\Debug\exercicioPiscina.exe
+F:\exerciciosTPA_GM\exercicioPiscina\exercicioPiscina\bin\Debug\exercicioPiscina.pdb
+F:\exerciciosTPA_GM\exercicioPiscina\exercicioPiscina\obj\Debug\exercicioPiscina.csprojResolveAssemblyReference.cache
+F:\exerciciosTPA_GM\exercicioPiscina\exercicioPiscina\obj\Debug\exercicioPiscina.MainForm.resources
+F:\exerciciosTPA_GM\exercicioPiscina\exercicioPiscina\obj\Debug\exercicioPiscina.csproj.GenerateResource.Cache
+F:\exerciciosTPA_GM\exercicioPiscina\exercicioPiscina\obj\Debug\exercicioPiscina.exe
+F:\exerciciosTPA_GM\exercicioPiscina\exercicioPiscina\obj\Debug\exercicioPiscina.pdb
+D:\exerciciosTPA_GM\exercicioPiscina\exercicioPiscina\bin\Debug\exercicioPiscina.exe
+D:\exerciciosTPA_GM\exercicioPiscina\exercicioPiscina\bin\Debug\exercicioPiscina.pdb
+D:\exerciciosTPA_GM\exercicioPiscina\exercicioPiscina\obj\Debug\ResolveAssemblyReference.cache
+D:\exerciciosTPA_GM\exercicioPiscina\exercicioPiscina\obj\Debug\exercicioPiscina.MainForm.resources
+D:\exerciciosTPA_GM\exercicioPiscina\exercicioPiscina\obj\Debug\GenerateResource.read.1.tlog
+D:\exerciciosTPA_GM\exercicioPiscina\exercicioPiscina\obj\Debug\GenerateResource.write.1.tlog
+D:\exerciciosTPA_GM\exercicioPiscina\exercicioPiscina\obj\Debug\exercicioPiscina.exe
+D:\exerciciosTPA_GM\exercicioPiscina\exercicioPiscina\obj\Debug\exercicioPiscina.pdb

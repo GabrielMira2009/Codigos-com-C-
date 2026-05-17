@@ -1,0 +1,7 @@
+G:\exerciciosTPA_GM\exercicioListaNomes\exercicioListaNomes\bin\Debug\exercicioListaNomes.exe
+G:\exerciciosTPA_GM\exercicioListaNomes\exercicioListaNomes\bin\Debug\exercicioListaNomes.pdb
+G:\exerciciosTPA_GM\exercicioListaNomes\exercicioListaNomes\obj\Debug\exercicioListaNomes.csprojResolveAssemblyReference.cache
+G:\exerciciosTPA_GM\exercicioListaNomes\exercicioListaNomes\obj\Debug\exercicioListaNomes.MainForm.resources
+G:\exerciciosTPA_GM\exercicioListaNomes\exercicioListaNomes\obj\Debug\exercicioListaNomes.csproj.GenerateResource.Cache
+G:\exerciciosTPA_GM\exercicioListaNomes\exercicioListaNomes\obj\Debug\exercicioListaNomes.exe
+G:\exerciciosTPA_GM\exercicioListaNomes\exercicioListaNomes\obj\Debug\exercicioListaNomes.pdb

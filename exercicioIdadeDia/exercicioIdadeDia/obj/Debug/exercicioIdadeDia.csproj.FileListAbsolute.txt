@@ -1,0 +1,14 @@
+E:\exerciciosTPA_GM\exercicioIdadeDia\exercicioIdadeDia\bin\Debug\exercicioIdadeDia.exe
+E:\exerciciosTPA_GM\exercicioIdadeDia\exercicioIdadeDia\bin\Debug\exercicioIdadeDia.pdb
+E:\exerciciosTPA_GM\exercicioIdadeDia\exercicioIdadeDia\obj\Debug\exercicioIdadeDia.csprojResolveAssemblyReference.cache
+E:\exerciciosTPA_GM\exercicioIdadeDia\exercicioIdadeDia\obj\Debug\exercicioIdadeDia.MainForm.resources
+E:\exerciciosTPA_GM\exercicioIdadeDia\exercicioIdadeDia\obj\Debug\exercicioIdadeDia.csproj.GenerateResource.Cache
+E:\exerciciosTPA_GM\exercicioIdadeDia\exercicioIdadeDia\obj\Debug\exercicioIdadeDia.exe
+E:\exerciciosTPA_GM\exercicioIdadeDia\exercicioIdadeDia\obj\Debug\exercicioIdadeDia.pdb
+F:\exerciciosTPA_GM\exercicioIdadeDia\exercicioIdadeDia\bin\Debug\exercicioIdadeDia.exe
+F:\exerciciosTPA_GM\exercicioIdadeDia\exercicioIdadeDia\bin\Debug\exercicioIdadeDia.pdb
+F:\exerciciosTPA_GM\exercicioIdadeDia\exercicioIdadeDia\obj\Debug\exercicioIdadeDia.csprojResolveAssemblyReference.cache
+F:\exerciciosTPA_GM\exercicioIdadeDia\exercicioIdadeDia\obj\Debug\exercicioIdadeDia.MainForm.resources
+F:\exerciciosTPA_GM\exercicioIdadeDia\exercicioIdadeDia\obj\Debug\exercicioIdadeDia.csproj.GenerateResource.Cache
+F:\exerciciosTPA_GM\exercicioIdadeDia\exercicioIdadeDia\obj\Debug\exercicioIdadeDia.exe
+F:\exerciciosTPA_GM\exercicioIdadeDia\exercicioIdadeDia\obj\Debug\exercicioIdadeDia.pdb

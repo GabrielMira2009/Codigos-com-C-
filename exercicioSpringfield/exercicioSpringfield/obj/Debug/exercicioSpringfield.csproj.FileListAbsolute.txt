@@ -1,0 +1,17 @@
+D:\exercicioSpringfield\exercicioSpringfield\obj\Debug\exercicioSpringfield.csprojResolveAssemblyReference.cache
+D:\exercicioSpringfield\exercicioSpringfield\obj\Debug\exercicioSpringfield.MainForm.resources
+D:\exercicioSpringfield\exercicioSpringfield\obj\Debug\exercicioSpringfield.csproj.GenerateResource.Cache
+D:\exercicioSpringfield\exercicioSpringfield\bin\Debug\exercicioSpringfield.exe.config
+D:\exercicioSpringfield\exercicioSpringfield\bin\Debug\exercicioSpringfield.exe
+D:\exercicioSpringfield\exercicioSpringfield\bin\Debug\exercicioSpringfield.pdb
+D:\exercicioSpringfield\exercicioSpringfield\obj\Debug\exercicioSpringfield.exe
+D:\exercicioSpringfield\exercicioSpringfield\obj\Debug\exercicioSpringfield.pdb
+D:\exerciciosTPA_GM\exercicioSpringfield\exercicioSpringfield\bin\Debug\exercicioSpringfield.exe.config
+D:\exerciciosTPA_GM\exercicioSpringfield\exercicioSpringfield\bin\Debug\exercicioSpringfield.exe
+D:\exerciciosTPA_GM\exercicioSpringfield\exercicioSpringfield\bin\Debug\exercicioSpringfield.pdb
+D:\exerciciosTPA_GM\exercicioSpringfield\exercicioSpringfield\obj\Debug\exercicioSpringfield.MainForm.resources
+D:\exerciciosTPA_GM\exercicioSpringfield\exercicioSpringfield\obj\Debug\exercicioSpringfield.exe
+D:\exerciciosTPA_GM\exercicioSpringfield\exercicioSpringfield\obj\Debug\exercicioSpringfield.pdb
+D:\exerciciosTPA_GM\exercicioSpringfield\exercicioSpringfield\obj\Debug\ResolveAssemblyReference.cache
+D:\exerciciosTPA_GM\exercicioSpringfield\exercicioSpringfield\obj\Debug\GenerateResource.read.1.tlog
+D:\exerciciosTPA_GM\exercicioSpringfield\exercicioSpringfield\obj\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,7 @@
+D:\exerciciosTPA_GM\exercicioKicar\exercicioKicar\obj\Debug\exercicioKicar.csprojResolveAssemblyReference.cache
+D:\exerciciosTPA_GM\exercicioKicar\exercicioKicar\obj\Debug\exercicioKicar.MainForm.resources
+D:\exerciciosTPA_GM\exercicioKicar\exercicioKicar\obj\Debug\exercicioKicar.csproj.GenerateResource.Cache
+D:\exerciciosTPA_GM\exercicioKicar\exercicioKicar\bin\Debug\exercicioKicar.exe
+D:\exerciciosTPA_GM\exercicioKicar\exercicioKicar\bin\Debug\exercicioKicar.pdb
+D:\exerciciosTPA_GM\exercicioKicar\exercicioKicar\obj\Debug\exercicioKicar.exe
+D:\exerciciosTPA_GM\exercicioKicar\exercicioKicar\obj\Debug\exercicioKicar.pdb

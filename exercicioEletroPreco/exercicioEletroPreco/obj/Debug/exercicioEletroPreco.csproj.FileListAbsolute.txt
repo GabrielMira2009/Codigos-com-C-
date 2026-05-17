@@ -1,0 +1,14 @@
+F:\exerciciosTPA_GM\exercicioEletroPreco\exercicioEletroPreco\obj\Debug\exercicioEletroPreco.csprojResolveAssemblyReference.cache
+F:\exerciciosTPA_GM\exercicioEletroPreco\exercicioEletroPreco\obj\Debug\exercicioEletroPreco.MainForm.resources
+F:\exerciciosTPA_GM\exercicioEletroPreco\exercicioEletroPreco\obj\Debug\exercicioEletroPreco.csproj.GenerateResource.Cache
+F:\exerciciosTPA_GM\exercicioEletroPreco\exercicioEletroPreco\bin\Debug\exercicioEletroPreco.exe
+F:\exerciciosTPA_GM\exercicioEletroPreco\exercicioEletroPreco\bin\Debug\exercicioEletroPreco.pdb
+F:\exerciciosTPA_GM\exercicioEletroPreco\exercicioEletroPreco\obj\Debug\exercicioEletroPreco.exe
+F:\exerciciosTPA_GM\exercicioEletroPreco\exercicioEletroPreco\obj\Debug\exercicioEletroPreco.pdb
+D:\exerciciosTPA_GM\exercicioEletroPreco\exercicioEletroPreco\bin\Debug\exercicioEletroPreco.exe
+D:\exerciciosTPA_GM\exercicioEletroPreco\exercicioEletroPreco\bin\Debug\exercicioEletroPreco.pdb
+D:\exerciciosTPA_GM\exercicioEletroPreco\exercicioEletroPreco\obj\Debug\exercicioEletroPreco.csprojResolveAssemblyReference.cache
+D:\exerciciosTPA_GM\exercicioEletroPreco\exercicioEletroPreco\obj\Debug\exercicioEletroPreco.MainForm.resources
+D:\exerciciosTPA_GM\exercicioEletroPreco\exercicioEletroPreco\obj\Debug\exercicioEletroPreco.csproj.GenerateResource.Cache
+D:\exerciciosTPA_GM\exercicioEletroPreco\exercicioEletroPreco\obj\Debug\exercicioEletroPreco.exe
+D:\exerciciosTPA_GM\exercicioEletroPreco\exercicioEletroPreco\obj\Debug\exercicioEletroPreco.pdb
