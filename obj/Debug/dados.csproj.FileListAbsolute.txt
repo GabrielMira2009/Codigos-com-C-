@@ -1,0 +1,21 @@
+C:\Users\Aluno\Documents\SharpDevelop Projects\dados\dados\bin\Debug\dados.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\dados\dados\bin\Debug\dados.pdb
+C:\Users\Aluno\Documents\SharpDevelop Projects\dados\dados\obj\Debug\dados.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\dados\dados\obj\Debug\dados.MainForm.resources
+C:\Users\Aluno\Documents\SharpDevelop Projects\dados\dados\obj\Debug\dados.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\dados\dados\obj\Debug\dados.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\dados\dados\obj\Debug\dados.pdb
+D:\exerciciosTPA_GM\dados 1\dados\bin\Debug\dados.exe
+D:\exerciciosTPA_GM\dados 1\dados\bin\Debug\dados.pdb
+D:\exerciciosTPA_GM\dados 1\dados\obj\Debug\dados.csprojResolveAssemblyReference.cache
+D:\exerciciosTPA_GM\dados 1\dados\obj\Debug\dados.MainForm.resources
+D:\exerciciosTPA_GM\dados 1\dados\obj\Debug\dados.csproj.GenerateResource.Cache
+D:\exerciciosTPA_GM\dados 1\dados\obj\Debug\dados.exe
+D:\exerciciosTPA_GM\dados 1\dados\obj\Debug\dados.pdb
+C:\Users\gabri\OneDrive\Documentos\projetos da Etec\exerciciosTPA_GM\dados 1\dados\bin\Debug\dados.exe
+C:\Users\gabri\OneDrive\Documentos\projetos da Etec\exerciciosTPA_GM\dados 1\dados\bin\Debug\dados.pdb
+C:\Users\gabri\OneDrive\Documentos\projetos da Etec\exerciciosTPA_GM\dados 1\dados\obj\Debug\dados.csprojResolveAssemblyReference.cache
+C:\Users\gabri\OneDrive\Documentos\projetos da Etec\exerciciosTPA_GM\dados 1\dados\obj\Debug\dados.MainForm.resources
+C:\Users\gabri\OneDrive\Documentos\projetos da Etec\exerciciosTPA_GM\dados 1\dados\obj\Debug\dados.csproj.GenerateResource.Cache
+C:\Users\gabri\OneDrive\Documentos\projetos da Etec\exerciciosTPA_GM\dados 1\dados\obj\Debug\dados.exe
+C:\Users\gabri\OneDrive\Documentos\projetos da Etec\exerciciosTPA_GM\dados 1\dados\obj\Debug\dados.pdb
