@@ -1,0 +1,14 @@
+C:\Users\Aluno\Documents\SharpDevelop Projects\velocidade_tempo\velocidade_tempo\bin\Debug\velocidade_tempo.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\velocidade_tempo\velocidade_tempo\bin\Debug\velocidade_tempo.pdb
+C:\Users\Aluno\Documents\SharpDevelop Projects\velocidade_tempo\velocidade_tempo\obj\Debug\velocidade_tempo.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\velocidade_tempo\velocidade_tempo\obj\Debug\velocidade_tempo.MainForm.resources
+C:\Users\Aluno\Documents\SharpDevelop Projects\velocidade_tempo\velocidade_tempo\obj\Debug\velocidade_tempo.csproj.GenerateResource.Cache
+C:\Users\Aluno\Documents\SharpDevelop Projects\velocidade_tempo\velocidade_tempo\obj\Debug\velocidade_tempo.exe
+C:\Users\Aluno\Documents\SharpDevelop Projects\velocidade_tempo\velocidade_tempo\obj\Debug\velocidade_tempo.pdb
+E:\exerciciosTPA_GM\velocidade_tempo\velocidade_tempo\bin\Debug\velocidade_tempo.exe
+E:\exerciciosTPA_GM\velocidade_tempo\velocidade_tempo\bin\Debug\velocidade_tempo.pdb
+E:\exerciciosTPA_GM\velocidade_tempo\velocidade_tempo\obj\Debug\velocidade_tempo.csprojResolveAssemblyReference.cache
+E:\exerciciosTPA_GM\velocidade_tempo\velocidade_tempo\obj\Debug\velocidade_tempo.MainForm.resources
+E:\exerciciosTPA_GM\velocidade_tempo\velocidade_tempo\obj\Debug\velocidade_tempo.csproj.GenerateResource.Cache
+E:\exerciciosTPA_GM\velocidade_tempo\velocidade_tempo\obj\Debug\velocidade_tempo.exe
+E:\exerciciosTPA_GM\velocidade_tempo\velocidade_tempo\obj\Debug\velocidade_tempo.pdb
